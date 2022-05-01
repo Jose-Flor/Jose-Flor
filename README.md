@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jose-Flor
 - 🌱 I’m currently learning HTML CSS Javascript
-- Working on conpleting The Odin Project
+- Working on conpleting The Odin Project and Free Code Camp
 
 <!---
 Jose-Flor/Jose-Flor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
