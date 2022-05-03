@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jose-Flor
+- 👋 Hi, I’m Jose 
 - 🌱 I’m currently learning HTML CSS Javascript
 -  🧑‍💻 Working on completing The Odin Project and Free Code Camp
 
