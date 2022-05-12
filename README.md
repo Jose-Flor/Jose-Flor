@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jose 
-- 🌱 I’m currently learning HTML CSS Javascript
+- 👋 Hello, I’m Jose 
+- 🌱 I’m currently learning HTML,CSS and Javascript
 -  🧑‍💻 Working on completing The Odin Project and Free Code Camp   
   
 <!---
